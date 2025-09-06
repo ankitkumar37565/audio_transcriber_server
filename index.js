@@ -3,7 +3,6 @@ import express from "express";
 import cors from "cors";
 import multer from "multer";
 import fs from "fs";
-// import { GoogleGenerativeAI } from "@google/generative-ai";
 import {
   GoogleGenAI,
   createUserContent,
